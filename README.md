@@ -33,7 +33,7 @@ The models achieved the following accuracies:
 - **Logistic Regression:** 98.25% 
 - **XGBoost:** 97.66% 
 - **Random Forest:** 96.49% 
-- **Decision Tree: **91.81%
+- **Decision Tree:** 91.81%
 
 Based on these results, Logistic Regression and XGBoost are recommended as the best models for accurately predicting breast cancer. Logistic Regression has a slight edge in accuracy, while XGBoost offers versatility and robustness, especially for larger datasets or when more complex interactions are involved.
 
